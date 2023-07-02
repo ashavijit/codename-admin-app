@@ -1,0 +1,1 @@
+pub(crate) const MONGO_URI: &str = "mongodb+srv://avijitsenme:4kXCEHRL4ZgRZYmZ@fastfck.4upl604.mongodb.net/?retryWrites=true&w=majority";
